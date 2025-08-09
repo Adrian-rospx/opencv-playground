@@ -1,4 +1,8 @@
 # all media files
 *.png
-*.zip
 *.jpg
+
+*.mp4
+*.avi
+
+*.zip
