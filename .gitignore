@@ -10,3 +10,6 @@
 *.avi
 
 *.zip
+
+# Neural network
+ObjectTracking/goturn.*
